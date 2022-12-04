@@ -24,7 +24,8 @@ body
 
 .about-flex img
 {
-    width: 12%;
+    width: 10%;
+    filter: blur(60px);
 }
 
 .about-about-me
